@@ -14,9 +14,10 @@
 
 
 
+
 ## Installation
 
-### Backend Setup 
+## Backend Setup 
 
 bash
 ```
@@ -24,7 +25,7 @@ cd backend
 pip install -r requirements.txt
 python app.py
 ```
-### Frontend Setup
+## Frontend Setup
 
 bash
 ```
@@ -34,7 +35,7 @@ npm run dev
 ```
 
 
-🤝 Contributing
+## 🤝 Contributing
 
 Fork the repo
 
